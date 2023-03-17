@@ -1,0 +1,9 @@
+.header > h1 {
+  color: white;
+  writing-mode: vertical-lr;
+  text-orientation: unset;
+  transform: rotateZ(180deg);
+  font-weight: 100;
+  letter-spacing: 5px;
+  word-spacing: 15px;
+}

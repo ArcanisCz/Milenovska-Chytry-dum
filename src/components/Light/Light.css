@@ -1,0 +1,17 @@
+.light {
+  width: 300px;
+  background-color: white;
+  padding: 5px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 10px;
+  border-radius: 10px;
+  cursor: pointer;
+  box-shadow: 2px 5px 8px rgba(0, 0, 0, 0.3);
+}
+
+.light > img {
+  width: 40px;
+  height: 40px;
+}
